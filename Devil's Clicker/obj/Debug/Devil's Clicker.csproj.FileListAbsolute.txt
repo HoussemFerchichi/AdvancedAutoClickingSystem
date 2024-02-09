@@ -1,0 +1,30 @@
+C:\Users\houss\source\repos\Devil's Clicker\Devil's Clicker\bin\Debug\Devil's Clicker.exe.config
+C:\Users\houss\source\repos\Devil's Clicker\Devil's Clicker\bin\Debug\Devil's Clicker.exe
+C:\Users\houss\source\repos\Devil's Clicker\Devil's Clicker\bin\Debug\Devil's Clicker.pdb
+C:\Users\houss\source\repos\Devil's Clicker\Devil's Clicker\obj\Debug\Devil's Clicker.csprojAssemblyReference.cache
+C:\Users\houss\source\repos\Devil's Clicker\Devil's Clicker\obj\Debug\Devil_s_Clicker.Form1.resources
+C:\Users\houss\source\repos\Devil's Clicker\Devil's Clicker\obj\Debug\Devil_s_Clicker.Properties.Resources.resources
+C:\Users\houss\source\repos\Devil's Clicker\Devil's Clicker\obj\Debug\Devil's Clicker.csproj.GenerateResource.cache
+C:\Users\houss\source\repos\Devil's Clicker\Devil's Clicker\obj\Debug\Devil's Clicker.csproj.CoreCompileInputs.cache
+C:\Users\houss\source\repos\Devil's Clicker\Devil's Clicker\obj\Debug\Devil's Clicker.exe
+C:\Users\houss\source\repos\Devil's Clicker\Devil's Clicker\obj\Debug\Devil's Clicker.pdb
+C:\Users\houss\source\repos\Devil's Clicker\Devil's Clicker\obj\Debug\Devil_s_Clicker.close_message.resources
+C:\Users\houss\source\repos\Devil's Clicker\Devil's Clicker\obj\Debug\Devil_s_Clicker.process_message.resources
+C:\Users\houss\source\repos\Devil's Clicker\Devil's Clicker\obj\Debug\Devil_s_Clicker.Clicker3.resources
+C:\Users\houss\source\repos\Devil's Clicker\Devil's Clicker\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\houss\source\repos\Devil's Clicker\Devil's Clicker\obj\Debug\Devil's Clicker.csproj.ResolveComReference.cache
+C:\Users\houss\source\repos\Devil's Clicker\Devil's Clicker\obj\Debug\Devil_s_Clicker.error.resources
+C:\Users\houss\source\repos\Devil's Clicker\Devil's Clicker\obj\Debug\Devil_s_Clicker.mousepos.resources
+D:\source\repos\Devil's Clicker\Devil's Clicker\obj\Debug\Devil's Clicker.csproj.AssemblyReference.cache
+D:\source\repos\Devil's Clicker\Devil's Clicker\obj\Debug\Devil's Clicker.csproj.ResolveComReference.cache
+D:\source\repos\Devil's Clicker\Devil's Clicker\obj\Debug\Devil_s_Clicker.Clicker3.resources
+D:\source\repos\Devil's Clicker\Devil's Clicker\obj\Debug\Devil_s_Clicker.close_message.resources
+D:\source\repos\Devil's Clicker\Devil's Clicker\obj\Debug\Devil_s_Clicker.error.resources
+D:\source\repos\Devil's Clicker\Devil's Clicker\obj\Debug\Devil_s_Clicker.Form1.resources
+D:\source\repos\Devil's Clicker\Devil's Clicker\obj\Debug\Devil_s_Clicker.mousepos.resources
+D:\source\repos\Devil's Clicker\Devil's Clicker\obj\Debug\Devil_s_Clicker.process_message.resources
+D:\source\repos\Devil's Clicker\Devil's Clicker\obj\Debug\Devil_s_Clicker.Properties.Resources.resources
+D:\source\repos\Devil's Clicker\Devil's Clicker\obj\Debug\Devil's Clicker.csproj.GenerateResource.cache
+D:\source\repos\Devil's Clicker\Devil's Clicker\obj\Debug\Devil's Clicker.csproj.CoreCompileInputs.cache
+D:\source\repos\Devil's Clicker\Devil's Clicker\obj\Debug\Devil's Clicker.exe
+D:\source\repos\Devil's Clicker\Devil's Clicker\obj\Debug\Devil's Clicker.pdb
